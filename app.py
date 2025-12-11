@@ -9,13 +9,14 @@ print("new")
 
 # new comment for revert
 print("new")
-# for checking git add -p no 1
 
 
 
 # in try branch, made some changes haha
 
-# for checking git add -p no 2
+# for checking git add -p no 6
+
+# added new line for merge conflict
 
 print("for new line ")
 
