@@ -9,7 +9,14 @@ print("new")
 
 # new comment for revert
 print("new")
+# for checking git add -p no 1
 
-# new comment to see git stash
+
 
 # in try branch, made some changes haha
+
+# for checking git add -p no 2
+
+print("for new line ")
+
+# second comment
